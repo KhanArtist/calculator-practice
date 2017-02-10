@@ -3,6 +3,7 @@ Created on Feb 9, 2017
 
 @author: ShermZ
 '''
+#TODO: exception handling, more useability, more operandi, UI/GUI. 
 #first attempt at a vacation_calculator forgive my incompetence
 def calculate():
     operation = input('''
